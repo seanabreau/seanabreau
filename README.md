@@ -6,6 +6,4 @@
 [![](https://img.shields.io/badge/Ploty_Dash-Apps-informational?style=flat&logo=Plotly&logoColor=white&color=2bbc8a)](#)
 
 
-Hi, my name is Sean —— and I'm focused on developing tools, systems, and processes for ML.
-
-My personal GitHub is AI/ML focused.
+hi, i'm sean —— and i'm focused on developing tools, systems, and processes for ML.
