@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# hello, world! 👋
 [![](https://img.shields.io/badge/Python-Code-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/PyTorch-ML-informational?style=for-the-badge&logo=PyTorch&logoColor=white&color=2bbc8a)](#)
 [![](https://img.shields.io/badge/Lightning-ML-informational?style=for-the-badge&logo=pytorchlightning&logoColor=white&color=2bbc8a)](#)
